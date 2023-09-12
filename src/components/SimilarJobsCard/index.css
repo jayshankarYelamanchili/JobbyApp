@@ -1,0 +1,32 @@
+.similar-job-item-container {
+  display: flex;
+  flex-direction: column;
+  background-color: #272727;
+  border-radius: 10px;
+  padding: 20px;
+  width: 280px;
+  height: 440px;
+  margin-right: 30px;
+}
+
+.similar-job-description-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.similar-jobs-description-title {
+  font-family: 'Roboto';
+  font-size: 18px;
+  color: #f8fafc;
+}
+
+.similar-job-description {
+  font-family: 'Roboto';
+  font-size: 16px;
+  color: #c4c8cb;
+}
+
+.similar-job-details-container {
+  margin-top: 20px;
+  align-self: flex-start;
+}
